@@ -1,4 +1,6 @@
-# TikTok_Trending_Tracks
-project of Applied Statistics and Data Analytics
+# TikTok Trending Tracks
+capstone project of *Applied Statistics and Data Analytics*
 
-2022 spring
+Instructor: Prof. Wang (Chen Wang)
+
+Collaborator: Peisen Li, Junhao Yu
